@@ -9,7 +9,7 @@
 
 * Installation (clone to your Django project)
 ```python
-hg clone https://glider_tw@bitbucket.org/glider_tw/calamus
+git clone https://github.com/kingctx530/calamus.git
 ```
 
 * Add `calamus` to your INSTALLED_APPS setting like this:
