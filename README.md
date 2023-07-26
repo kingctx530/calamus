@@ -3,11 +3,14 @@
 * Environment require
 	* gettext-tools-0.17
 	* gettext-runtime-0.17-1
-	* Windows 7 , Deepin Linux 15.7
-	* Python 3.4
-	* Django 2.0
+	* Manjaro 22.0
+	* Python 3.11
+	* Django 4.2
 
 * Installation (clone to your Django project)
+```python
+hg clone https://glider_tw@bitbucket.org/glider_tw/calamus
+```
 
 * Add `calamus` to your INSTALLED_APPS setting like this:
 ```python
